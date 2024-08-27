@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp2/widget_tree.dart';
+
+import 'widget_tree.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +16,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
-       
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
@@ -23,4 +23,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
