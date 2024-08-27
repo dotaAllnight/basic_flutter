@@ -1,0 +1,16 @@
+
+*.cpp
+basicflutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+*.xml
+*.swift
+*.xcworkspacedata
+*.xcscheme
+*.xcconfig
+*.plist
+*.entitlements
+*.cc
+*.pbxproj
+*.png
+*.gradle
+*.properties
+*.xcsettings
